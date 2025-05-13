@@ -22,8 +22,8 @@ Ambos servicios pueden ejecutarse de forma local y usan **Prisma** con **MySQL**
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone git@github.com:Cpietro87/Node-Microservicio.git
+cd Node-Microservicio
 
 ## Levantar el users-service
 cd users-service
